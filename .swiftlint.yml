@@ -1,0 +1,6 @@
+excluded:
+  - Pods
+  - Carthage
+  - '**/Pods'
+
+indentation: 2
